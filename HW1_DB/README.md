@@ -1,0 +1,3 @@
+- Upload file ảnh vào folder (folder có tên là images) bằng form
+- Sau đó lưu đường link tới file ảnh vào bảng image trong database
+- Hiển thị toàn bộ image ở trong database và hiển thị ra giao diện (display.php)
